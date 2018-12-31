@@ -72,6 +72,9 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 | 什么鬼？    | 咋回事？  | 怎么办？    | 救命啊！！       |
 |-------------|-------------|-------------|------------------|
-| 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
+| 自己 Google | 自己 Google | 自己 Google | 自己 Google 了吗 |
 
 ![googleit.png](/images/googleit.png)
+
+## 如何 Google
+[如何 Google](http://t.cn/EbT03W8)
